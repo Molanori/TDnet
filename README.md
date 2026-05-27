@@ -11,7 +11,7 @@
 <div dir="rtl" style="text-align:right;">
 
 <p>
-🔘 <a href="https://github.com/iampedii/WhiteDNS/releases/download/1.5.1/WhiteDNS-1.5.1-universal.apk">دانلود نرم افزار وایت دی ان اس</a><br>🔘 بعد از نصب وارد منوی پروفایل شو<br>
+🔘 <a href="https://github.com/iampedii/WhiteDNS/releases/download/1.5.1/WhiteDNS-1.5.1-universal.apk">دانلود نرم افزار وایت دی ان اس</a><br>🔘 بعد از نصب از پایین اپ وارد منوی پروفایل شو<br>
 🔘 بخش پیشفرض بالای صفحه کانکشن هست<br>
 🔘 اونجا روی IMPORT بزن<br>
 </p>
