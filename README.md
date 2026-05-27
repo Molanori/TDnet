@@ -33,6 +33,19 @@ stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6e
 🔘 از بخش بالای برنامه Resolver رو انتخاب کن<br>
 🔘 اینجا CREATE رو بزن<br>
 🔘 ریزالور های زیر رو کپی کن به همین صورت<br>
+<pre style="direction:ltr; text-align:left; background:#f5f5f5; padding:10px; border-radius:8px; overflow-x:auto;">
+  1.1.1.1
+  1.0.0.1
+  8.8.8.8
+  8.8.4.4
+  9.9.9.9
+  149.112.112.112
+  208.67.222.222
+  208.67.220.220
+  94.140.14.14
+  94.140.15.15
+  </pre>
+  
 🔘 یک اسم در بخش Home resolvers انتخاب کن<br>
 🔘 ریزالوور هایی که کپی کردی رو بزار داخل کادرش<br>
 🔘 سیو رو بزن<br>
