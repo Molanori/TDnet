@@ -28,7 +28,7 @@ stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6e
 </pre>
 
 <p>
-بعد از وارد کردن، گزینه Save یا Connect را بزن.
+بعد از وارد کردن، گزینه IMPORT را بزن.
 </p>
 
 </div>
