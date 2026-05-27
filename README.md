@@ -1,14 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=لیست%20اتصال%20رایگان&section=header" />
 </p>
-<h2 dir="rtl">📑 فهرست مطالب</h2>
-
-<ul dir="rtl">
-  <li><a href="#🐢-وایت-دی-ان-اس">🐢 وایت دی ان اس</a></li>
-  <li><a href="#🎗️-ساب-لینک-v2ray">🎗️ ساب لینک v2ray</a></li>
-</ul>
-
-<hr>
 
 <h2 align="center">🐢 وایت دی ان اس</h2>
 
