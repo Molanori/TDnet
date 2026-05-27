@@ -67,6 +67,7 @@
 
 </div>
 <header style="text-align: center; margin-top: 40px; direction: rtl;">
+  <p align="center">
     <img 
         src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%D8%A7%D9%85%DB%8C%D8%AF%D9%88%D8%A7%D8%B1%D9%85%20%D9%85%D9%81%DB%8C%D8%AF%20%D8%A8%D8%A7%D8%B4%D9%87%20%D8%A8%D8%B1%D8%A7%D8%AA%D9%88%D9%86&section=footer&reversal=false&animation=twinkling&textBg=false" 
       >
