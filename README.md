@@ -24,14 +24,12 @@
 <p>
 این کانفیگ رو کپی کن و داخل کادر باز شده بزارین:
 </p>
-  🔘 از بخش بالای برنامه Resolver رو انتخاب کن<br>
-  🔘 اینجا CREATE رو بزن<br>
-  🔘 ریزالور های زیر رو کپی کن به همین صورت<br>
-  </p>
-  
-  <p style="direction:ltr; text-align:left;">
+
+<p style="direction:ltr; text-align:left;">
   stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiYmlnIiwic2VydmVyIjp7ImRvbWFpbiI6InYud2hpdGVkbnMuc3BhY2UiLCJlbmNyeXB0aW9uX2tleSI6ImJhZDk5MzY0MDkzODYxNjM0MDMwZTk2ZjExZmUzMTMyIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0
   </p>
+
+<p>
 🔘 از بخش بالای برنامه Resolver رو انتخاب کن<br>
 🔘 اینجا CREATE رو بزن<br>
 🔘 ریزالور های زیر رو کپی کن به همین صورت<br>
@@ -70,3 +68,8 @@
 </p>
 
 </div>
+
+این کد کامل من شد
+همه چیزش خوبه فقط اون کانفیگه رو نمیشه کامل کپی کرد توی اندروید جون کامل سلکت نمیشه
+چجوری میتونیم مشکلش رو رفع کنیم؟
+
