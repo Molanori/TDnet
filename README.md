@@ -72,7 +72,7 @@
 <div dir="rtl" style="text-align:right;">
 
   <p>
-  🔘 <a href="https://github.com/ExclaveNetwork/Exclave/releases/download/0.17.41/Exclave-0.17.41-arm64-v8a.apk">دانلود نرم افزار اکسکلاو</a><br>🔘 بعد از نصب از پایین اپ وارد منوی پروفایل شو<br>
+  🔘 <a href="https://github.com/ExclaveNetwork/Exclave/releases/download/0.17.41/Exclave-0.17.41-arm64-v8a.apk">دانلود نرم افزار اکسکلاو</a>
   🔘 بعد از نصب از بخش بالای اپ روی +🗒️ بزن<br>
   🔘 یکی از لینک های زیر رو کپی کن<br>
   🔵 لینک ها به ترتیب عملکرد بهتر هستن<br>
