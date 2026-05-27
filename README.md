@@ -31,7 +31,7 @@
 🔘 از بخش بالای برنامه Resolver رو انتخاب کن<br>
 🔘 اینجا CREATE رو بزن<br>
 🔘 ریزالور های زیر رو کپی کن به همین صورت<br>
-<pre style="direction:ltr; text-align:left; background:#f5f5f5; padding:8px 12px; border-radius:6px; overflow-x:auto; width:fit-content; max-width:100%;">
+<pre style="direction:ltr; text-align:left; background:#f5f5f5; padding:8px 12px; border-radius:8px; overflow-x:auto; width:fit-content;">
   1.1.1.1
   1.0.0.1
   8.8.8.8
