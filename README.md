@@ -8,31 +8,29 @@
 💡 روش‌های مبتنی بر دی‌ان‌اس معمولاً کند عمل می‌کنن، اما الان که اینترنت تازه باز شده، اختلال کمتری نسبت به بقیه دارن و می‌تونن مفیدتر باشن.
 </p>
 
-<p align="right" dir="rtl">
+<div dir="rtl" style="text-align:right;">
+
+<p>
 1. دانلود نرم افزار وایت دی ان اس<br>
 2. بعد از نصب وارد منوی پروفایل شو<br>
 3. بخش پیشفرض بالای صفحه کانکشن هست<br>
 4. اونجا روی IMPORT بزن<br>
 </p>
 
-<h3 align="right">5.</h3>
+<hr>
 
-<div style="position:relative;">
+<h3>5. اضافه کردن کانفیگ</h3>
 
-<button onclick="navigator.clipboard.writeText(document.getElementById('cfg').innerText)"
-style="position:absolute; left:10px; top:10px; padding:6px 10px; border:none; border-radius:6px; cursor:pointer;">
-📋 Copy
-</button>
+<p>
+این کانفیگ رو کپی کن و داخل کادر باز شده (Import) قرار بده:
+</p>
 
-<pre id="cfg" dir="ltr" style="
-background:#0d1117;
-color:#e6edf3;
-padding:15px;
-border-radius:10px;
-overflow-x:auto;
-white-space:pre;
-">
+<pre style="direction:ltr; text-align:left; background:#f5f5f5; padding:10px; border-radius:8px; overflow-x:auto;">
 stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiYmlnIiwic2VydmVyIjp7ImRvbWFpbiI6InYud2hpdGVkbnMuc3BhY2UiLCJlbmNyeXB0aW9uX2tleSI6ImJhZDk5MzY0MDkzODYxNjM0MDMwZTk2ZjExZmUzMTMyIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0
 </pre>
+
+<p>
+بعد از وارد کردن، گزینه Save یا Connect را بزن.
+</p>
 
 </div>
